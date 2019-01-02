@@ -1,8 +1,8 @@
 
 
+word =["afoot", "Excellent", "incredible", "Absolute", "unreal", "Inconceivable","octopus"]
+
 word.grep(/\b[aeiouAEIOU]/)
-
-
 def words_starting_with_un_and_ending_with_ing(text)
 
 end
